@@ -13,12 +13,6 @@
 
 <p align="center>
 
-
-
-
-
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px">
