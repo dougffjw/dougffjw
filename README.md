@@ -1,38 +1,32 @@
-## Hi there 👋
+### Hello , my name is Dg! 👨🏽‍💻
 
-<!-- Cabeçalhos -->
+![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
 
-# Titulo 1 
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+👨🏽‍💻 Sou estudante de Análise e desenvolvimento de Sistemas, focado na área de desenvolvimento FullStack!
 
-*italico* ou __negrito___ 
-___negritoANDitalico___
-
-- Lista 1 
-- Lista 2 
-  - Sublista
-
-  1. first
-  2. second
-  3. terst
-
-  [texto da imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffoto%2Fpaisagem-de-montanha-gm517188688-89380423&psig=AOvVaw0sy6S2JbBp5Bu9iO4brrCh&ust=1723578074741000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCQk-ia8IcDFQAAAAAdAAAAABAE)
-
-  ![ imagem ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffoto%2Fpaisagem-de-montanha-gm517188688-89380423&psig=AOvVaw0sy6S2JbBp5Bu9iO4brrCh&ust=1723578074741000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCQk-ia8IcDFQAAAAAdAAAAABAE)
-
-`system.out.println();`
-
-> TEXTO de Citações
-
-| Cabeçalho 1 |Cabeçalho 2 |
-| ----------- | ---------- |
-| texto1      | texto2     | 
-|texto 3      |texto 4     |
+✔![acesse meu linkedin](https://www.linkedin.com/in/dgfernandesf/)
 
 
-[X] Tarefa 1 <br>
-[] Tarefa 2
+------
+
+### Minhas Tecnologias
+
+![sql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px">
+
+-----
+|Cursos  | Certificados |
+|--------| -------------|
+|CSS- developer | ![CERTIFICADO CSS](https://hermes.dio.me/certificates/0WQFEQUT.pdf)
+|HTML- developer | ![CERTIFICADO CSS](https://hermes.dio.me/certificates/56D1B682.pdf)
+
+----
+
+![](![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dougffjw&show_icons=true&theme=dark))
