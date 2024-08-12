@@ -4,7 +4,7 @@
 
 👨🏽‍💻 Sou estudante de Análise e desenvolvimento de Sistemas, focado na área de desenvolvimento FullStack!
 
-✔![acesse meu linkedin](https://www.linkedin.com/in/dgfernandesf/)
+✔[acesse meu linkedin](https://www.linkedin.com/in/dgfernandesf/)
 
 
 ------
