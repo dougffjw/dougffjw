@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**dougffjw/dougffjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Cabeçalhos -->
 
-Here are some ideas to get you started:
+# Titulo 1 
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*italico* ou __negrito___ 
+___negritoANDitalico___
+
+- Lista 1 
+- Lista 2 
+  - Sublista
+
+  1. first
+  2. second
+  3. terst
+
+  [texto da imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffoto%2Fpaisagem-de-montanha-gm517188688-89380423&psig=AOvVaw0sy6S2JbBp5Bu9iO4brrCh&ust=1723578074741000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCQk-ia8IcDFQAAAAAdAAAAABAE)
+
+  ![ imagem ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffoto%2Fpaisagem-de-montanha-gm517188688-89380423&psig=AOvVaw0sy6S2JbBp5Bu9iO4brrCh&ust=1723578074741000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCQk-ia8IcDFQAAAAAdAAAAABAE)
+
+`system.out.println();`
+
+> TEXTO de Citações
+
+| Cabeçalho 1 |Cabeçalho 2 |
+| ----------- | ---------- |
+| texto1      | texto2     | 
+|texto 3      |texto 4     |
+
+
+[X] Tarefa 1 <br>
+[] Tarefa 2
