@@ -17,16 +17,16 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px">
 </p>
 
 -----
 |Cursos  | Certificados |
 |--------| -------------|
-|CSS- developer | ![CERTIFICADO CSS](https://hermes.dio.me/certificates/0WQFEQUT.pdf)
-|HTML- developer | ![CERTIFICADO CSS](https://hermes.dio.me/certificates/56D1B682.pdf)
+|CSS- developer | [CERTIFICADO CSS](https://hermes.dio.me/certificates/0WQFEQUT.pdf)
+|HTML- developer | [CERTIFICADO CSS](https://hermes.dio.me/certificates/56D1B682.pdf)
 
 ----
 
