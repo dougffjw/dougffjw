@@ -13,7 +13,6 @@
 
 <p align="center>
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px">
@@ -21,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px">
+
 </p>
 
 -----
@@ -31,4 +31,4 @@
 
 ----
 
-![](![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dougffjw&show_icons=true&theme=dark))
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dougffjw&show_icons=true&theme=dark)
