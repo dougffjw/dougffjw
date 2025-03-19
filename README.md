@@ -28,11 +28,6 @@
 
 </p>
 
------
-|Cursos  | Certificados |
-|--------| -------------|
-|CSS- developer | [CERTIFICADO CSS](https://hermes.dio.me/certificates/0WQFEQUT.pdf)
-|HTML- developer | [CERTIFICADO CSS](https://hermes.dio.me/certificates/56D1B682.pdf)
 
 ----
 
