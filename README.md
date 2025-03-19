@@ -4,7 +4,10 @@
 
 👨🏽‍💻 Sou estudante de Análise e desenvolvimento de Sistemas, focado na área de desenvolvimento FullStack!
 
+✔[Meu GitHub Principal](https://github.com/Douglasffjw)
+<br>
 ✔[acesse meu linkedin](https://www.linkedin.com/in/dgfernandesf/)
+
 
 
 ------
