@@ -1,12 +1,16 @@
 ### Hello , my name is Douglas Fernandes! 👨🏽‍💻
 
-![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
-
-👨🏽‍💻 Sou estudante de Análise e desenvolvimento de Sistemas, focado na área de desenvolvimento FullStack!
+#### Esse é meu GitHub secundário para testes ! 
 
 ✔[Meu GitHub Principal](https://github.com/Douglasffjw)
 <br>
 ✔[acesse meu linkedin](https://www.linkedin.com/in/dgfernandesf/)
+
+
+![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
+
+👨🏽‍💻 Sou estudante de Análise e desenvolvimento de Sistemas, focado na área de desenvolvimento FullStack!
+
 
 
 
